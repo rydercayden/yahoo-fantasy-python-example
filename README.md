@@ -1,7 +1,7 @@
 # yahoo-fantasy-python-example
 Example on how to use Yahoo Fantasy Package for Python
 
-#NOTE:
+# NOTE:
 Please run this code at your own risk
 
 Please careful when running the Add and Drop functions in the sample as this is not reversible
